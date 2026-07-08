@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing **Full Stack Development** (MERN Stack) at G-TEC Centre of Excellence
+- 🎓 Currently pursuing **Full Stack Development** (MERN Stack) 
 - 🌱 Learning and building with **React, Node.js, Express.js & MongoDB**
 - 🚀 Passionate about building clean, scalable, and user-friendly web applications
 - 💡 Always exploring new tools, technologies, and best practices in software development
